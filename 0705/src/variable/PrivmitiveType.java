@@ -1,8 +1,8 @@
 package variable;
 
-public class Ex1 {
+public class PrivmitiveType {
 
-	public static void main(String[] args) {
+	public static void main(StringType[] args) {
 		/*
 		 * 기본 데이터 타입 (기본형, Primitive Type)
 		 * - 메모리에 효율적인 사용을 위해 사이즈별로 나누어 놓음

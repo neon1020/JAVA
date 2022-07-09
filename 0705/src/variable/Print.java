@@ -1,8 +1,8 @@
 package variable;
 
-public class Ex4 {
+public class Print {
 
-	public static void main(String[] args) {
+	public static void main(StringType[] args) {
 		/*
 		 * < print(), println(), printf() >
 		 * 1. print() 와 println() 은 출력 후 줄바꿈 여부의 차이

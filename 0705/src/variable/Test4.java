@@ -2,7 +2,7 @@ package variable;
 
 public class Test4 {
 
-	public static void main(String[] args) {
+	public static void main(StringType[] args) {
 		/*
 		 * printf(), println() 활용하여 구구단 출력
 		 * 구구단 2단을 다음과 같이 출력

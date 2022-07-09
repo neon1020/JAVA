@@ -1,8 +1,8 @@
 package variable;
 
-public class Ex3 {
+public class StringType {
 
-	public static void main(String[] args) {
+	public static void main(StringType[] args) {
 		/*
 		 * String 타입
 		 * - 문자열을 표현하기 위한 데이터타입

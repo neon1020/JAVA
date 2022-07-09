@@ -1,8 +1,8 @@
 package variable;
 
-public class Ex2 {
+public class CharType {
 
-	public static void main(String[] args) {
+	public static void main(StringType[] args) {
 		
 		char ch1 = 'A';
 		System.out.println(ch1);
